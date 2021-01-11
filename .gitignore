@@ -1,0 +1,28 @@
+*~$*
+package-lock.json
+referencias
+.bundle
+Gemfile.lock
+*.html
+*.pdf
+build/
+html/
+node_modules
+
+#Java Projects
+*.class
+target/
+test/
+.idea
+*.iml
+
+nbproject/private/
+/aulas/
+projects/varios/random-words
+provas
+
+#MacOS Files
+.DS_Store
+
+#Backup Moodle
+*.mbz
